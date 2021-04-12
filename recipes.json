@@ -1,6 +1,6 @@
 {
 "recipes":
-[{"name": "Simple Biscuits","instructions": "bake"},
-{"name": "Fluffy Pancakes","instructions": "cook"}
+[{"name": "Simple Biscuits","instructions": "\u{2022} In a large mixing bowl, combine flour, baking powder, sugar, and salt \n\u{2022} Cut butter into small pieces and and to the mixture \n\u{2022} Add milk and stir until combines \n\u{2022} Take out dough and work it on a floured surface \n\u{2022} Flatten dough and fold it on itslef mutliple times to make internal layers \n\u{2022} Flatten dough and cut out small circles or rip out small size balls of dough \n\u{2022} Place on paper lined baking sheet and bake","temp":"400"},
+{"name": "Cornbread Muffins","instructions": "\u{2022} In a mixing bowl, combine cornmeal, sugar, salt, and baking powder \n\u{2022} Add in egg, milk, and oil until mixed \n\u{2022} Pour into lightly greased muffin pan, about 1/4 of the way up \n\u{2022} Bake","temp":"400"}
 ]
 }
