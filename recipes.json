@@ -1,6 +1,21 @@
 {
 "recipes":
-[{"name": "Simple Biscuits","instructions": "In a large mixing bowl, combine flour, baking powder, sugar, and salt \n Cut butter into small pieces and and to the mixture \n Add milk and stir until combines \n Take out dough and work it on a floured surface \n Flatten dough and fold it on itslef mutliple times to make internal layers \n Flatten dough and cut out small circles or rip out small size balls of dough \n Place on paper lined baking sheet and bake","temp":"400"},
-{"name": "Cornbread Muffins","instructions": "In a mixing bowl, combine cornmeal, sugar, salt, and baking powder \n Add in egg, milk, and oil until mixed \n Pour into lightly greased muffin pan, about 1/4 of the way up \n Bake","temp":"400"}
+[
+  {"name": "Simple Biscuits","instructions": "In a large mixing bowl, combine flour, baking powder, sugar, and salt \n Cut butter into small pieces and and to the  mixture \n Add milk and stir until combines \n Take out dough and work it on a floured surface \n Flatten dough and fold it on itslef mutliple times to make internal layers \n Flatten dough and cut out small circles or rip out small size balls of dough \n Place on paper lined baking sheet and bake",
+  "prep":"10",
+  "cooktime":"12",
+  "ingredients":" 2 Cups flour \n 1 Tbs baking powder \n} 1 Tbs Sugar \n 1 tsp Salt \n 6 Tbs Cold butter \n 3/4 Cup milk",
+  "recipe_image":"!!!",
+  "temp":"400",
+  "tip":"For great texture, powder with flour before putting in oven!"},
+  
+  {"name": "Cornbread Muffins",
+   "instructions": "In a mixing bowl, combine cornmeal, sugar, salt, and baking powder \n Add in egg, milk, and oil until mixed \n Pour into lightly greased muffin pan, about 1/4 of the way up \n Bake",
+   "prep":"8",
+   "cooktime":"13",
+   "ingredients":" 1 Cup flour \n 1 Cup yellow cornmeal \n 2/3 Cup sugar \n 1 tsp Salt. \n 3 1/2 tsp Baking powder \n 1 Egg \n 1 Cup milk \n 1/3 Cup vegetable oil",
+   "recipe_image":"!!!",
+   "temp":"400",
+   "tip":"Don't cook muffins longer than you need. They will continue to cook outisde of the oven just from the risidual heat."}
 ]
 }
